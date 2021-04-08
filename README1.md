@@ -35,3 +35,5 @@ Here you can include information on how to contribute to the project
 
 ## Questions
 Here is where you can direct any viewer of the README to where they should address questions (via email, LinkedIn, etc.)
+
+Link to view a video of the application running - https://drive.google.com/file/d/1ALOh7kKJ4RjMnPllAVi19Hz7xj6mOr-F/view?usp=sharing
